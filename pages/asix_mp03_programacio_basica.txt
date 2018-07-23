@@ -1,0 +1,9 @@
+
+====== ASIX MP03 Programació bàsica ======
+
+#FpInfor #Asix #AsixMp03
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #AsixMp03 }}
+

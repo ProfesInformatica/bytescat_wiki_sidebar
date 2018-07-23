@@ -1,0 +1,9 @@
+
+====== ASIX MP10 UF2 Instal·lació i ajustament de SGBD corporatiu ======
+
+#FpInfor #Asix #AsixMp10 #AsixMp10Uf2 #AsixMp10Uf02
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #AsixMp10Uf2 #AsixMp10Uf02 }}
+

@@ -1,0 +1,9 @@
+
+====== SMX MP05 UF2 Configuració de commutadors i encaminadors ======
+
+#FpInfor #Smx #SmxMp05 #SmxMp05Uf2 #SmxMp05Uf02
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #SmxMp05Uf2 #SmxMp05Uf02 }}
+

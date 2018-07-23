@@ -1,0 +1,9 @@
+
+====== DAM Desenvolupament d’aplicacions multiplataforma ======
+
+#FpInfor #Dam
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #Dam }}
+

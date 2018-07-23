@@ -1,0 +1,9 @@
+
+====== ASIX MP01 UF1 Instal·lació, configuració i explotació del sistema informàtic ======
+
+#FpInfor #Asix #AsixMp01 #AsixMp01Uf1 #AsixMp01Uf01
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #AsixMp01Uf1 #AsixMp01Uf01 }}
+

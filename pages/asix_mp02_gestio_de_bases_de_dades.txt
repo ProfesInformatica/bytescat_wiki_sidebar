@@ -1,0 +1,9 @@
+
+====== ASIX MP02 Gestió de bases de dades ======
+
+#FpInfor #Asix #AsixMp02
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #AsixMp02 }}
+

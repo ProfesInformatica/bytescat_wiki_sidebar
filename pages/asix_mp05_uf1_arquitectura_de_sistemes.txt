@@ -1,0 +1,9 @@
+
+====== ASIX MP05 UF1 Arquitectura de sistemes ======
+
+#FpInfor #Asix #AsixMp05 #AsixMp05Uf1 #AsixMp05Uf01
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #AsixMp05Uf1 #AsixMp05Uf01 }}
+

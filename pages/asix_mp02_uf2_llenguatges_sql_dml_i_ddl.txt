@@ -1,0 +1,9 @@
+
+====== ASIX MP02 UF2 Llenguatges SQL DML i DDL ======
+
+#FpInfor #Asix #AsixMp02 #AsixMp02Uf2 #AsixMp02Uf02
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #AsixMp02Uf2 #AsixMp02Uf02 }}
+

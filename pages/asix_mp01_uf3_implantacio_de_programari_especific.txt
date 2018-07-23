@@ -1,0 +1,9 @@
+
+====== ASIX MP01 UF3 Implantació de programari específic ======
+
+#FpInfor #Asix #AsixMp01 #AsixMp01Uf3 #AsixMp01Uf03
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #AsixMp01Uf3 #AsixMp01Uf03 }}
+

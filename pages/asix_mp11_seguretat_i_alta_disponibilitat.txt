@@ -1,0 +1,9 @@
+
+====== ASIX MP11 Seguretat i alta disponibilitat ======
+
+#FpInfor #Asix #AsixMp11
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #AsixMp11 }}
+

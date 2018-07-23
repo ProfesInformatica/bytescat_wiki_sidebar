@@ -1,0 +1,9 @@
+
+====== DAM MP06 UF4 Components d’accés a dades ======
+
+#FpInfor #Dam #DamMp06 #DamMp06Uf4 #DamMp06Uf04
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #DamMp06Uf4 #DamMp06Uf04 }}
+

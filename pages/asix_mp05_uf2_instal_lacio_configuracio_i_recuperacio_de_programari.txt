@@ -1,0 +1,9 @@
+
+====== ASIX MP05 UF2 Instal·lació, configuració i recuperació de programari ======
+
+#FpInfor #Asix #AsixMp05 #AsixMp05Uf2 #AsixMp05Uf02
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #AsixMp05Uf2 #AsixMp05Uf02 }}
+

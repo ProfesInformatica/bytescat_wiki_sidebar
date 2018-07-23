@@ -1,0 +1,9 @@
+
+====== DAM MP02 UF3 Llenguatge SQL DCL i extensió procedimental ======
+
+#FpInfor #Dam #DamMp02 #DamMp02Uf3 #DamMp02Uf03
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #DamMp02Uf3 #DamMp02Uf03 }}
+

@@ -1,0 +1,9 @@
+
+====== DAM MP06 UF3 Persistència en BD natives XML ======
+
+#FpInfor #Dam #DamMp06 #DamMp06Uf3 #DamMp06Uf03
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #DamMp06Uf3 #DamMp06Uf03 }}
+

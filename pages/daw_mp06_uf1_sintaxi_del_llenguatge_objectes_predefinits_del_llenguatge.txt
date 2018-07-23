@@ -1,0 +1,9 @@
+
+====== DAW MP06 UF1 Sintaxi del llenguatge Objectes predefinits del llenguatge ======
+
+#FpInfor #Daw #DawMp06 #DawMp06Uf1 #DawMp06Uf01
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #DawMp06Uf1 #DawMp06Uf01 }}
+

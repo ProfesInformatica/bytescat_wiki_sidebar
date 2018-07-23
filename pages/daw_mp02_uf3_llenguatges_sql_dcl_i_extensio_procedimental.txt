@@ -1,0 +1,9 @@
+
+====== DAW MP02 UF3 Llenguatges SQL DCL i extensió procedimental ======
+
+#FpInfor #Daw #DawMp02 #DawMp02Uf3 #DawMp02Uf03
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #DawMp02Uf3 #DawMp02Uf03 }}
+

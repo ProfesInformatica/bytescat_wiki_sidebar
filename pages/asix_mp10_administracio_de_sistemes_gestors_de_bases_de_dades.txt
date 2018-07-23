@@ -1,0 +1,9 @@
+
+====== ASIX MP10 Administració de sistemes gestors de bases de dades ======
+
+#FpInfor #Asix #AsixMp10
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #AsixMp10 }}
+

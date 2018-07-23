@@ -1,0 +1,9 @@
+
+====== SMX MP01 UF2 Components d’un equip microinformàtic ======
+
+#FpInfor #Smx #SmxMp01 #SmxMp01Uf2 #SmxMp01Uf02
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #SmxMp01Uf2 #SmxMp01Uf02 }}
+

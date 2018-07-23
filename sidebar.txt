@@ -1,0 +1,684 @@
+
+--> ASIX Administració de Sistemes Informàtics i Xarxes#
+
+[[ASIX Administració de Sistemes Informàtics i Xarxes|Tots els mòduls del cicle]]
+
+--> MP01 Implantació de sistemes operatius#
+[[ASIX MP01 Implantació de sistemes operatius|Totes les UFs del modul]]
+
+
+  * [[ASIX MP01 UF1 Instal·lació, configuració i explotació del sistema informàtic|UF1 Instal·lació, configuració i explotació del sistema informàtic]]
+
+  * [[ASIX MP01 UF2 Gestió de la informació i de recursos en una xarxa|UF2 Gestió de la informació i de recursos en una xarxa]]
+
+  * [[ASIX MP01 UF3 Implantació de programari específic|UF3 Implantació de programari específic]]
+
+  * [[ASIX MP01 UF4 Seguretat, rendiment i recursos|UF4 Seguretat, rendiment i recursos]]
+
+<--
+
+
+--> MP02 Gestió de bases de dades#
+[[ASIX MP02 Gestió de bases de dades|Totes les UFs del modul]]
+
+
+  * [[ASIX MP02 UF1 Introducció a les bases de dades|UF1 Introducció a les bases de dades]]
+
+  * [[ASIX MP02 UF2 Llenguatges SQL DML i DDL|UF2 Llenguatges SQL DML i DDL]]
+
+  * [[ASIX MP02 UF3 Assegurament de la informació|UF3 Assegurament de la informació]]
+
+<--
+
+
+--> MP03 Programació bàsica#
+[[ASIX MP03 Programació bàsica|Totes les UFs del modul]]
+
+
+  * [[ASIX MP03 UF1 Programació estructurada|UF1 Programació estructurada]]
+
+  * [[ASIX MP03 UF2 Disseny modular|UF2 Disseny modular]]
+
+  * [[ASIX MP03 UF3 Fonaments de gestió de fitxers|UF3 Fonaments de gestió de fitxers]]
+
+<--
+
+
+--> MP04 Llenguatges de marques i sistemes de gestió d'informació#
+[[ASIX MP04 Llenguatges de marques i sistemes de gestió d'informació|Totes les UFs del modul]]
+
+
+  * [[ASIX MP04 UF1 Programació amb XML|UF1 Programació amb XML]]
+
+  * [[ASIX MP04 UF2 Àmbits d’aplicació de l’XML|UF2 Àmbits d’aplicació de l’XML]]
+
+  * [[ASIX MP04 UF3 Sistemes de gestió d’informació empresarial|UF3 Sistemes de gestió d’informació empresarial]]
+
+<--
+
+
+--> MP05 Fonaments de maquinari#
+[[ASIX MP05 Fonaments de maquinari|Totes les UFs del modul]]
+
+
+  * [[ASIX MP05 UF1 Arquitectura de sistemes|UF1 Arquitectura de sistemes]]
+
+  * [[ASIX MP05 UF2 Instal·lació, configuració i recuperació de programari|UF2 Instal·lació, configuració i recuperació de programari]]
+
+  * [[ASIX MP05 UF3 Implantació i manteniment de CPD|UF3 Implantació i manteniment de CPD]]
+
+<--
+
+
+--> MP06 Administració de sistemes operatius#
+[[ASIX MP06 Administració de sistemes operatius|Totes les UFs del modul]]
+
+
+  * [[ASIX MP06 UF1 Administració avançada de sistemes operatius|UF1 Administració avançada de sistemes operatius]]
+
+  * [[ASIX MP06 UF2 Automatització de tasques i llenguatges de guions|UF2 Automatització de tasques i llenguatges de guions]]
+
+<--
+
+
+--> MP07 Planificació i administració de xarxes#
+[[ASIX MP07 Planificació i administració de xarxes|Totes les UFs del modul]]
+
+
+  * [[ASIX MP07 UF1 Introducció a les xarxes|UF1 Introducció a les xarxes]]
+
+  * [[ASIX MP07 UF2 Administració de dispositius de xarxa|UF2 Administració de dispositius de xarxa]]
+
+  * [[ASIX MP07 UF3 Administració avançada de xarxes|UF3 Administració avançada de xarxes]]
+
+<--
+
+
+--> MP08 Serveis de xarxa i Internet#
+[[ASIX MP08 Serveis de xarxa i Internet|Totes les UFs del modul]]
+
+
+  * [[ASIX MP08 UF1 Serveis de noms i configuració automàtica|UF1 Serveis de noms i configuració automàtica]]
+
+  * [[ASIX MP08 UF2 Serveis Web i de transferència de fitxers|UF2 Serveis Web i de transferència de fitxers]]
+
+  * [[ASIX MP08 UF3 Correu electrònic i missatgeria|UF3 Correu electrònic i missatgeria]]
+
+  * [[ASIX MP08 UF4 Serveis d'àudio I vídeo|UF4 Serveis d'àudio I vídeo]]
+
+<--
+
+
+--> MP09 Implantació d'aplicacions web#
+[[ASIX MP09 Implantació d'aplicacions web|Totes les UFs del modul]]
+
+
+  * [[ASIX MP09 UF1 Llenguatges de guions de servidor|UF1 Llenguatges de guions de servidor]]
+
+  * [[ASIX MP09 UF2 Implantació de gestors de continguts|UF2 Implantació de gestors de continguts]]
+
+<--
+
+
+--> MP10 Administració de sistemes gestors de bases de dades#
+[[ASIX MP10 Administració de sistemes gestors de bases de dades|Totes les UFs del modul]]
+
+
+  * [[ASIX MP10 UF1 Llenguatges SQL DCL i extensió procedimental |UF1 Llenguatges SQL DCL i extensió procedimental ]]
+
+  * [[ASIX MP10 UF2 Instal·lació i ajustament de SGBD corporatiu|UF2 Instal·lació i ajustament de SGBD corporatiu]]
+
+<--
+
+
+--> MP11 Seguretat i alta disponibilitat#
+[[ASIX MP11 Seguretat i alta disponibilitat|Totes les UFs del modul]]
+
+
+  * [[ASIX MP11 UF1 Seguretat física, lògica i legislació|UF1 Seguretat física, lògica i legislació]]
+
+  * [[ASIX MP11 UF2 Seguretat activa i accés remot|UF2 Seguretat activa i accés remot]]
+
+  * [[ASIX MP11 UF3 Tallafocs i servidors intermediaris|UF3 Tallafocs i servidors intermediaris]]
+
+  * [[ASIX MP11 UF4 Alta disponibilitat|UF4 Alta disponibilitat]]
+
+<--
+
+
+--> MP12 FOL#
+[[ASIX MP12 FOL|Totes les UFs del modul]]
+
+
+  * [[ASIX MP12 UF1 Incorporació al treball|UF1 Incorporació al treball]]
+
+  * [[ASIX MP12 UF2 Prevenció de riscos laborals|UF2 Prevenció de riscos laborals]]
+
+<--
+
+
+--> MP13 EIE#
+[[ASIX MP13 EIE|Totes les UFs del modul]]
+
+
+  * [[ASIX MP13 UF1 Empresa i iniciativa emprenedora|UF1 Empresa i iniciativa emprenedora]]
+
+<--
+
+
+--> MP14 Projecte #
+[[ASIX MP14 Projecte |Totes les UFs del modul]]
+
+
+  * [[ASIX MP14 UF1 Projecte|UF1 Projecte]]
+
+<--
+
+<--
+
+--> DAM Desenvolupament d’aplicacions multiplataforma#
+
+[[DAM Desenvolupament d’aplicacions multiplataforma|Tots els mòduls del cicle]]
+
+--> MP01 Sistemes informàtics#
+[[DAM MP01 Sistemes informàtics|Totes les UFs del modul]]
+
+
+  * [[DAM MP01 UF1 Instal·lació, configuració i explotació del sistema informàtic|UF1 Instal·lació, configuració i explotació del sistema informàtic]]
+
+  * [[DAM MP01 UF2 Gestió de la informació i de recursos en una xarxa|UF2 Gestió de la informació i de recursos en una xarxa]]
+
+  * [[DAM MP01 UF3 Implantació de programari específic|UF3 Implantació de programari específic]]
+
+<--
+
+
+--> MP02 Bases de dades#
+[[DAM MP02 Bases de dades|Totes les UFs del modul]]
+
+
+  * [[DAM MP02 UF1 Introducció a les bases de dades|UF1 Introducció a les bases de dades]]
+
+  * [[DAM MP02 UF2 Llenguatges SQL DML i DDL|UF2 Llenguatges SQL DML i DDL]]
+
+  * [[DAM MP02 UF3 Llenguatge SQL DCL i extensió procedimental|UF3 Llenguatge SQL DCL i extensió procedimental]]
+
+  * [[DAM MP02 UF4 Bases de dades objecte-relacionals|UF4 Bases de dades objecte-relacionals]]
+
+<--
+
+
+--> MP03 Programació bàsica#
+[[DAM MP03 Programació bàsica|Totes les UFs del modul]]
+
+
+  * [[DAM MP03 UF1 Programació estructurada|UF1 Programació estructurada]]
+
+  * [[DAM MP03 UF2 Disseny modular|UF2 Disseny modular]]
+
+  * [[DAM MP03 UF3 Fonaments de gestió de fitxers|UF3 Fonaments de gestió de fitxers]]
+
+  * [[DAM MP03 UF4 Programació orientada a objectes Fonaments|UF4 Programació orientada a objectes Fonaments]]
+
+  * [[DAM MP03 UF5 POO Llibreries de classes fonamentals|UF5 POO Llibreries de classes fonamentals]]
+
+  * [[DAM MP03 UF6 POO Introducció a la persistència en BD|UF6 POO Introducció a la persistència en BD]]
+
+<--
+
+
+--> MP04 Llenguatges de marques i sistemes de gestió d'informació#
+[[DAM MP04 Llenguatges de marques i sistemes de gestió d'informació|Totes les UFs del modul]]
+
+
+  * [[DAM MP04 UF1 Programació amb XML|UF1 Programació amb XML]]
+
+  * [[DAM MP04 UF2 Àmbits d’aplicació de l’XML|UF2 Àmbits d’aplicació de l’XML]]
+
+  * [[DAM MP04 UF3 Sistemes de gestió d’informació empresarial|UF3 Sistemes de gestió d’informació empresarial]]
+
+<--
+
+
+--> MP05 Entorns de desenvolupament#
+[[DAM MP05 Entorns de desenvolupament|Totes les UFs del modul]]
+
+
+  * [[DAM MP05 UF1 Desenvolupament de programari|UF1 Desenvolupament de programari]]
+
+  * [[DAM MP05 UF2 Optimització del programari|UF2 Optimització del programari]]
+
+  * [[DAM MP05 UF3 Introducció al disseny orientat a objectes|UF3 Introducció al disseny orientat a objectes]]
+
+<--
+
+
+--> MP06 Accés a dades#
+[[DAM MP06 Accés a dades|Totes les UFs del modul]]
+
+
+  * [[DAM MP06 UF1 Persistència en fitxers|UF1 Persistència en fitxers]]
+
+  * [[DAM MP06 UF2 Persistència en BDR-BDOR-BDOO|UF2 Persistència en BDR-BDOR-BDOO]]
+
+  * [[DAM MP06 UF3 Persistència en BD natives XML|UF3 Persistència en BD natives XML]]
+
+  * [[DAM MP06 UF4 Components d’accés a dades|UF4 Components d’accés a dades]]
+
+<--
+
+
+--> MP07 Desenvolupament d’interfícies#
+[[DAM MP07 Desenvolupament d’interfícies|Totes les UFs del modul]]
+
+
+  * [[DAM MP07 UF1 Disseny i implementació d’interfícies|UF1 Disseny i implementació d’interfícies]]
+
+  * [[DAM MP07 UF2 Preparació i distribució d’aplicacions|UF2 Preparació i distribució d’aplicacions]]
+
+<--
+
+
+--> MP08 Programació multimèdia i dispositius mòbils#
+[[DAM MP08 Programació multimèdia i dispositius mòbils|Totes les UFs del modul]]
+
+
+  * [[DAM MP08 UF1 Desenvolupament d’aplicacions per dispositius mòbils|UF1 Desenvolupament d’aplicacions per dispositius mòbils]]
+
+  * [[DAM MP08 UF2 Programació multimèdia|UF2 Programació multimèdia]]
+
+  * [[DAM MP08 UF3 Desenvolupament de jocs per dispositius mòbils|UF3 Desenvolupament de jocs per dispositius mòbils]]
+
+<--
+
+
+--> MP09 Programació de serveis i processos#
+[[DAM MP09 Programació de serveis i processos|Totes les UFs del modul]]
+
+
+  * [[DAM MP09 UF1 Seguretat i criptografia |UF1 Seguretat i criptografia ]]
+
+  * [[DAM MP09 UF2 Processos i fils|UF2 Processos i fils]]
+
+  * [[DAM MP09 UF3 Sòcols i serveis|UF3 Sòcols i serveis]]
+
+<--
+
+
+--> MP10 Sistemes de gestió empresarial#
+[[DAM MP10 Sistemes de gestió empresarial|Totes les UFs del modul]]
+
+
+  * [[DAM MP10 UF1 Sistemes ERP-CRM Implantació|UF1 Sistemes ERP-CRM Implantació]]
+
+  * [[DAM MP10 UF2 Sistemes ERP-CRM Explotació i adequació|UF2 Sistemes ERP-CRM Explotació i adequació]]
+
+<--
+
+
+--> MP11 FOL#
+[[DAM MP11 FOL|Totes les UFs del modul]]
+
+
+  * [[DAM MP11 UF1 Incorporació al treball|UF1 Incorporació al treball]]
+
+  * [[DAM MP11 UF2 Prevenció de riscos laborals|UF2 Prevenció de riscos laborals]]
+
+<--
+
+
+--> MP12 EIE#
+[[DAM MP12 EIE|Totes les UFs del modul]]
+
+
+  * [[DAM MP12 UF1 Empresa i iniciativa emprenedora|UF1 Empresa i iniciativa emprenedora]]
+
+<--
+
+
+--> MP13 Projecte #
+[[DAM MP13 Projecte |Totes les UFs del modul]]
+
+
+  * [[DAM MP13 UF1 Projecte|UF1 Projecte]]
+
+<--
+
+<--
+
+--> DAW Desenvolupament d’aplicacions web#
+
+[[DAW Desenvolupament d’aplicacions web|Tots els mòduls del cicle]]
+
+--> MP01 Sistemes informàtics#
+[[DAW MP01 Sistemes informàtics|Totes les UFs del modul]]
+
+
+  * [[DAW MP01 UF1 Instal·lació, configuració i explotació del sistema informàtic|UF1 Instal·lació, configuració i explotació del sistema informàtic]]
+
+  * [[DAW MP01 UF2 Gestió de la informació i de recursos en una xarxa|UF2 Gestió de la informació i de recursos en una xarxa]]
+
+  * [[DAW MP01 UF3 Implantació de programari específic|UF3 Implantació de programari específic]]
+
+<--
+
+
+--> MP02 Bases de dades#
+[[DAW MP02 Bases de dades|Totes les UFs del modul]]
+
+
+  * [[DAW MP02 UF1 Introducció a les bases de dades|UF1 Introducció a les bases de dades]]
+
+  * [[DAW MP02 UF2 Llenguatges SQL DML i DDL|UF2 Llenguatges SQL DML i DDL]]
+
+  * [[DAW MP02 UF3 Llenguatges SQL DCL i extensió procedimental|UF3 Llenguatges SQL DCL i extensió procedimental]]
+
+  * [[DAW MP02 UF4 Bases de dades objecte-relacionals|UF4 Bases de dades objecte-relacionals]]
+
+<--
+
+
+--> MP03 Programació#
+[[DAW MP03 Programació|Totes les UFs del modul]]
+
+
+  * [[DAW MP03 UF1 Programació estructurada|UF1 Programació estructurada]]
+
+  * [[DAW MP03 UF2 Disseny modular|UF2 Disseny modular]]
+
+  * [[DAW MP03 UF3 Fonaments de gestió de fitxers|UF3 Fonaments de gestió de fitxers]]
+
+  * [[DAW MP03 UF4 Programació orientada a objectes Fonaments|UF4 Programació orientada a objectes Fonaments]]
+
+  * [[DAW MP03 UF5 POO Llibreries de classes fonamentals|UF5 POO Llibreries de classes fonamentals]]
+
+  * [[DAW MP03 UF6 POO Introducció a la persistència en BD|UF6 POO Introducció a la persistència en BD]]
+
+<--
+
+
+--> MP04 Llenguatge de marques i sistemes de gestió d’informació#
+[[DAW MP04 Llenguatge de marques i sistemes de gestió d’informació|Totes les UFs del modul]]
+
+
+  * [[DAW MP04 UF1 Programació amb XML|UF1 Programació amb XML]]
+
+  * [[DAW MP04 UF2 Àmbits d’aplicació de l’XML |UF2 Àmbits d’aplicació de l’XML ]]
+
+  * [[DAW MP04 UF3 Sistemes de gestió empresarial|UF3 Sistemes de gestió empresarial]]
+
+<--
+
+
+--> MP05 Entorns de desenvolupament#
+[[DAW MP05 Entorns de desenvolupament|Totes les UFs del modul]]
+
+
+  * [[DAW MP05 UF1 Desenvolupament de programari|UF1 Desenvolupament de programari]]
+
+  * [[DAW MP05 UF2 Optimització de programari|UF2 Optimització de programari]]
+
+  * [[DAW MP05 UF3 Introducció al disseny orientat a objectes|UF3 Introducció al disseny orientat a objectes]]
+
+<--
+
+
+--> MP06 Desenvolupament web en entorn client#
+[[DAW MP06 Desenvolupament web en entorn client|Totes les UFs del modul]]
+
+
+  * [[DAW MP06 UF1 Sintaxi del llenguatge Objectes predefinits del llenguatge|UF1 Sintaxi del llenguatge Objectes predefinits del llenguatge]]
+
+  * [[DAW MP06 UF2 Estructures definides pel programador Objectes |UF2 Estructures definides pel programador Objectes ]]
+
+  * [[DAW MP06 UF3 Esdeveniments Manegament de formularis Model d'objectes del document |UF3 Esdeveniments Manegament de formularis Model d'objectes del document ]]
+
+  * [[DAW MP06 UF4 Comunicació asíncrona client-servidor|UF4 Comunicació asíncrona client-servidor]]
+
+<--
+
+
+--> MP07 Desenvolupament web en entorn servidor#
+[[DAW MP07 Desenvolupament web en entorn servidor|Totes les UFs del modul]]
+
+
+  * [[DAW MP07 UF1 Desenvolupament web en entorn servidor |UF1 Desenvolupament web en entorn servidor ]]
+
+  * [[DAW MP07 UF2 Generació dinàmica de pagines web |UF2 Generació dinàmica de pagines web ]]
+
+  * [[DAW MP07 UF3 Tècniques d’accés a dades |UF3 Tècniques d’accés a dades ]]
+
+  * [[DAW MP07 UF4 Serveis web Pàgines dinàmiques interactives Webs Híbrids |UF4 Serveis web Pàgines dinàmiques interactives Webs Híbrids ]]
+
+<--
+
+
+--> MP08 Desplegament d'aplicacions web#
+[[DAW MP08 Desplegament d'aplicacions web|Totes les UFs del modul]]
+
+
+  * [[DAW MP08 UF1 Servidors web i de transferència de fitxers |UF1 Servidors web i de transferència de fitxers ]]
+
+  * [[DAW MP08 UF2 Servidors d’aplicacions web |UF2 Servidors d’aplicacions web ]]
+
+  * [[DAW MP08 UF3 Desplegament d’aplicacions web |UF3 Desplegament d’aplicacions web ]]
+
+  * [[DAW MP08 UF4 Control de versions i documentació |UF4 Control de versions i documentació ]]
+
+<--
+
+
+--> M09 Disseny d'interfícies web#
+[[DAW M09 Disseny d'interfícies web|Totes les UFs del modul]]
+
+
+  * [[DAW M09 UF1 Disseny de la interfície Estils |UF1 Disseny de la interfície Estils ]]
+
+  * [[DAW M09 UF2 Elements multimèdia creació i integració |UF2 Elements multimèdia creació i integració ]]
+
+  * [[DAW M09 UF3 Accessibilitat i usabilitat |UF3 Accessibilitat i usabilitat ]]
+
+<--
+
+
+--> MP10 Formació i Orientació Laboral#
+[[DAW MP10 Formació i Orientació Laboral|Totes les UFs del modul]]
+
+
+  * [[DAW MP10 UF 1 Incorporació al treball |UF 1 Incorporació al treball ]]
+
+  * [[DAW MP10 UF 2 Prevenció de riscos laborals|UF 2 Prevenció de riscos laborals]]
+
+<--
+
+
+--> MP11 Empresa i iniciativa emprenedora#
+[[DAW MP11 Empresa i iniciativa emprenedora|Totes les UFs del modul]]
+
+
+  * [[DAW MP11 UF 1 Empresa iniciativa emprenedora |UF 1 Empresa iniciativa emprenedora ]]
+
+<--
+
+
+--> MP12 Projecte #
+[[DAW MP12 Projecte |Totes les UFs del modul]]
+
+
+  * [[DAW MP12 UF1 Projecte desenvolupament|UF1 Projecte desenvolupament]]
+
+<--
+
+<--
+
+--> SMX Sistemes Microinformàtics i Xarxes#
+
+[[SMX Sistemes Microinformàtics i Xarxes|Tots els mòduls del cicle]]
+
+--> MP01 Muntatge i manteniment d’equips#
+[[SMX MP01 Muntatge i manteniment d’equips|Totes les UFs del modul]]
+
+
+  * [[SMX MP01 UF1 Electricitat a l’ordinador|UF1 Electricitat a l’ordinador]]
+
+  * [[SMX MP01 UF2 Components d’un equip microinformàtic|UF2 Components d’un equip microinformàtic]]
+
+  * [[SMX MP01 UF3 Muntatge d’un equip microinformàtic|UF3 Muntatge d’un equip microinformàtic]]
+
+  * [[SMX MP01 UF4 Noves tendències de muntatge|UF4 Noves tendències de muntatge]]
+
+  * [[SMX MP01 UF5 Manteniment d’equips microinformàtics|UF5 Manteniment d’equips microinformàtics]]
+
+  * [[SMX MP01 UF6 Instal·lació de programari|UF6 Instal·lació de programari]]
+
+<--
+
+
+--> MP02 Sistemes Operatius Monolloc#
+[[SMX MP02 Sistemes Operatius Monolloc|Totes les UFs del modul]]
+
+
+  * [[SMX MP02 UF1 Introducció als sistemes operatius|UF1 Introducció als sistemes operatius]]
+
+  * [[SMX MP02 UF2 Sistemes operatius propietaris|UF2 Sistemes operatius propietaris]]
+
+  * [[SMX MP02 UF3 Sistemes operatius lliures|UF3 Sistemes operatius lliures]]
+
+<--
+
+
+--> MP03 Aplicacions ofimàtiques#
+[[SMX MP03 Aplicacions ofimàtiques|Totes les UFs del modul]]
+
+
+  * [[SMX MP03 UF1 Aplicacions ofimàtiques i atenció a l’usuari|UF1 Aplicacions ofimàtiques i atenció a l’usuari]]
+
+  * [[SMX MP03 UF2 El correu i l’agenda electrònica |UF2 El correu i l’agenda electrònica ]]
+
+  * [[SMX MP03 UF3 Processadors de text |UF3 Processadors de text ]]
+
+  * [[SMX MP03 UF4 Fulls de càlcul |UF4 Fulls de càlcul ]]
+
+  * [[SMX MP03 UF5 Bases de dades |UF5 Bases de dades ]]
+
+  * [[SMX MP03 UF6 Imatge i vídeo – Presentacions  |UF6 Imatge i vídeo – Presentacions  ]]
+
+<--
+
+
+--> MP04 Sistemes operatius en xarxa#
+[[SMX MP04 Sistemes operatius en xarxa|Totes les UFs del modul]]
+
+
+  * [[SMX MP04 UF1 Sistemes operatius propietaris en xarxa|UF1 Sistemes operatius propietaris en xarxa]]
+
+  * [[SMX MP04 UF2 Sistemes operatius lliures en xarxa|UF2 Sistemes operatius lliures en xarxa]]
+
+  * [[SMX MP04 UF3 Compartició de recursos i seguretat|UF3 Compartició de recursos i seguretat]]
+
+  * [[SMX MP04 UF4 Integració de sistemes operatius |UF4 Integració de sistemes operatius ]]
+
+<--
+
+
+--> MP05 Xarxes locals#
+[[SMX MP05 Xarxes locals|Totes les UFs del modul]]
+
+
+  * [[SMX MP05 UF1 Introducció a les xarxes locals|UF1 Introducció a les xarxes locals]]
+
+  * [[SMX MP05 UF2 Configuració de commutadors i encaminadors|UF2 Configuració de commutadors i encaminadors]]
+
+  * [[SMX MP05 UF3 Resolució d’incidències en xarxes locals|UF3 Resolució d’incidències en xarxes locals]]
+
+<--
+
+
+--> MP06 Seguretat informàtica#
+[[SMX MP06 Seguretat informàtica|Totes les UFs del modul]]
+
+
+  * [[SMX MP06 UF1 Seguretat passiva|UF1 Seguretat passiva]]
+
+  * [[SMX MP06 UF2 Còpies de seguretat|UF2 Còpies de seguretat]]
+
+  * [[SMX MP06 UF3 Legislació de seguretat i protecció de dades|UF3 Legislació de seguretat i protecció de dades]]
+
+  * [[SMX MP06 UF4 Seguretat activa|UF4 Seguretat activa]]
+
+  * [[SMX MP06 UF5 Tallafocs i monitoratge de xarxes|UF5 Tallafocs i monitoratge de xarxes]]
+
+<--
+
+
+--> MP07 Serveis de xarxa#
+[[SMX MP07 Serveis de xarxa|Totes les UFs del modul]]
+
+
+  * [[SMX MP07 UF1 Configuració de la xarxa (DNS i DHCP)|UF1 Configuració de la xarxa (DNS i DHCP)]]
+
+  * [[SMX MP07 UF2 Correu electrònic i transmissió d’arxius|UF2 Correu electrònic i transmissió d’arxius]]
+
+  * [[SMX MP07 UF3 Servidor web i servidor intermediari o proxy|UF3 Servidor web i servidor intermediari o proxy]]
+
+  * [[SMX MP07 UF4 Accés a sistemes remots |UF4 Accés a sistemes remots ]]
+
+<--
+
+
+--> MP08 Aplicacions Web#
+[[SMX MP08 Aplicacions Web|Totes les UFs del modul]]
+
+
+  * [[SMX MP08 UF1 Ofimàtica i eines web|UF1 Ofimàtica i eines web]]
+
+  * [[SMX MP08 UF2 Gestors d'arxius web|UF2 Gestors d'arxius web]]
+
+  * [[SMX MP08 UF3 Gestors de continguts|UF3 Gestors de continguts]]
+
+  * [[SMX MP08 UF4 Portals web d’aprenentatge|UF4 Portals web d’aprenentatge]]
+
+  * [[SMX MP08 UF5 Fonaments d’HTML i fulls d’estils|UF5 Fonaments d’HTML i fulls d’estils]]
+
+<--
+
+
+--> MP09 FOL#
+[[SMX MP09 FOL|Totes les UFs del modul]]
+
+
+  * [[SMX MP09 UF1 Incorporació al treball|UF1 Incorporació al treball]]
+
+  * [[SMX MP09 UF2 Prevenció de riscos laborals|UF2 Prevenció de riscos laborals]]
+
+<--
+
+
+--> MP10 EiE#
+[[SMX MP10 EiE|Totes les UFs del modul]]
+
+
+  * [[SMX MP10 UF1 Empresa i iniciativa emprenedora|UF1 Empresa i iniciativa emprenedora]]
+
+<--
+
+
+--> MP11 Anglès #
+[[SMX MP11 Anglès |Totes les UFs del modul]]
+
+
+  * [[SMX MP11 UF1 Anglès|UF1 Anglès]]
+
+<--
+
+
+--> MP12 Síntesi#
+[[SMX MP12 Síntesi|Totes les UFs del modul]]
+
+
+  * [[SMX MP12 UF1 Síntesi|UF1 Síntesi]]
+
+<--
+
+<--
+

@@ -1,0 +1,9 @@
+
+====== DAW MP02 UF2 Llenguatges SQL DML i DDL ======
+
+#FpInfor #Daw #DawMp02 #DawMp02Uf2 #DawMp02Uf02
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #DawMp02Uf2 #DawMp02Uf02 }}
+

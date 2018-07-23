@@ -1,0 +1,9 @@
+
+====== ASIX MP08 UF1 Serveis de noms i configuració automàtica ======
+
+#FpInfor #Asix #AsixMp08 #AsixMp08Uf1 #AsixMp08Uf01
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #AsixMp08Uf1 #AsixMp08Uf01 }}
+

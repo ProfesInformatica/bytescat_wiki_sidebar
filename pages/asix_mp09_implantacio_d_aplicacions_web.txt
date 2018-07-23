@@ -1,0 +1,9 @@
+
+====== ASIX MP09 Implantació d'aplicacions web ======
+
+#FpInfor #Asix #AsixMp09
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #AsixMp09 }}
+

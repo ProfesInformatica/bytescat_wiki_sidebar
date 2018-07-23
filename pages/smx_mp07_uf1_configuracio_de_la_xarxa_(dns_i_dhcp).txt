@@ -1,0 +1,9 @@
+
+====== SMX MP07 UF1 Configuració de la xarxa (DNS i DHCP) ======
+
+#FpInfor #Smx #SmxMp07 #SmxMp07Uf1 #SmxMp07Uf01
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #SmxMp07Uf1 #SmxMp07Uf01 }}
+

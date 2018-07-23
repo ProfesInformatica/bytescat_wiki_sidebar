@@ -1,0 +1,9 @@
+
+====== DAM MP02 UF2 Llenguatges SQL DML i DDL ======
+
+#FpInfor #Dam #DamMp02 #DamMp02Uf2 #DamMp02Uf02
+
+===== Pàgines en aquesta wiki =====
+
+{{topic>  #DamMp02Uf2 #DamMp02Uf02 }}
+
